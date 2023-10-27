@@ -47,4 +47,4 @@ RUN pip install scipy
 RUN pip install scikit-image
 RUN pip install scikit-learn
 RUN pip install tqdm
-RUN pip install tensorflow
+
